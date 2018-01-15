@@ -131,7 +131,6 @@ int main(int argc, char *argv[]) {
 		cout << endl;
 	}
 
-	int i;
-	cin >> i;
+	
 	return 0;
 }
